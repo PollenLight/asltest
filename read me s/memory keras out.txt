@@ -1,0 +1,1 @@
+https://keras.io/getting_started/faq/#how-can-i-use-keras-with-datasets-that-dont-fit-in-memory
